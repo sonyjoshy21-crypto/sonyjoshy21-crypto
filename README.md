@@ -4,6 +4,10 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonyjoshy21-crypto&show_icons=true&theme=radical)
+
 ## 🚀 Featured Projects
 
 ### 🔹 Resumind – AI Resume Analyzer
