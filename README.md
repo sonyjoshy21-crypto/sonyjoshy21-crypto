@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sony Joseph
 
-💻 Frontend Developer focused on building modern web applications and AI-powered tools.
+💻 Frontend Developer focused on building real-world web applications and AI-powered tools.
 
 ---
 
