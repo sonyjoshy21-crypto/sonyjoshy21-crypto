@@ -42,4 +42,4 @@ AI-based CCTV system using YOLOv8 for object detection and query-based video ana
 ## 📫 Connect With Me
 
 - Email: sonyjoshy21@gmail.com
-- LinkedIn: (add your link later)
+- LinkedIn: (https://www.linkedin.com/in/sony-joseph-53b9a234a/)
