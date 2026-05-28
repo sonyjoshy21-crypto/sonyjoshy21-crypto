@@ -26,11 +26,6 @@ A next-generation AI-driven video analytics platform leveraging deep learning ar
 * **Tech Stack:** Python, YOLOv8, Computer Vision Modules
 * 💻 [View Repository](https://github.com/sonyjoshy21-crypto/cctvintel)
 
----
-
-## 📈 Git Activity & Metrics
-
-![Sony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonyjoshy21-crypto&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ---
 
